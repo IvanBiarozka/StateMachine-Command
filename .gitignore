@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+
+# Unity generated directories
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Builds
+[Bb]uild/
+[Bb]uilds/
+
+# IDE and editor files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+
+# Crash and diagnostic output
+sysinfo.txt
+*.stackdump
+
+# Unity package artifacts
+*.unitypackage
+*.apk
+*.aab
+*.app
+*.ipa
+
+# Keep Unity metadata for source assets
+!*.meta
